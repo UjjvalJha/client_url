@@ -1,0 +1,5 @@
+name: 'Client Url'
+type: module
+description: 'Provides Client Url field.'
+core_version_requirement: ^8 || ^9
+package: 'Custom'
